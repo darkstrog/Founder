@@ -1,0 +1,9 @@
+C:\Users\Ergo\source\repos\Founder2\Founder2\bin\Debug\Founder2.exe.config
+C:\Users\Ergo\source\repos\Founder2\Founder2\bin\Debug\Founder2.exe
+C:\Users\Ergo\source\repos\Founder2\Founder2\bin\Debug\Founder2.pdb
+C:\Users\Ergo\source\repos\Founder2\Founder2\obj\Debug\Founder2.csprojAssemblyReference.cache
+C:\Users\Ergo\source\repos\Founder2\Founder2\obj\Debug\Founder2.Form1.resources
+C:\Users\Ergo\source\repos\Founder2\Founder2\obj\Debug\Founder2.Properties.Resources.resources
+C:\Users\Ergo\source\repos\Founder2\Founder2\obj\Debug\Founder2.csproj.GenerateResource.cache
+C:\Users\Ergo\source\repos\Founder2\Founder2\obj\Debug\Founder2.exe
+C:\Users\Ergo\source\repos\Founder2\Founder2\obj\Debug\Founder2.pdb
